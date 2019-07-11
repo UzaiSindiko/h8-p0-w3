@@ -26,7 +26,7 @@ function groupAnimals(animals) {
 			result.push(temp);
 		}
 	}
-	console.log(result);
+	return result;
 }
 
 // TEST CASES
